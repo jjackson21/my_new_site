@@ -4,6 +4,9 @@ ruby '2.2.3'
 # HTTP server for Ruby/Rack recommended by Heroku
 gem 'puma', '3.6.2'
 
+# Contenful Middleman
+gem 'contentful_middleman', '1.0.4'
+
 # Middleman
 gem 'middleman', '4.2.0'
 
